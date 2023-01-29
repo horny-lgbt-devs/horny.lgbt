@@ -10,7 +10,7 @@
 
 @font-face {
     font-family: 'Manrope';
-    src: url("https://github.com/horny-lgbt-devs/horny.lgbt/blob/main/assets/Manrope-Regular.ttf?raw=true");
+    src: url('../Manrope-Regular.ttf') format('truetype');
   }
 
 body {
